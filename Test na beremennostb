@@ -1,0 +1,4 @@
+getgenv().autoprint = true
+while true do
+print("test amigo piroshok")
+end
